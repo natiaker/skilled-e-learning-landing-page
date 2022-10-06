@@ -103,11 +103,10 @@ h1 {
     font-size: var(--body-s);
     font-weight: var(--bold);
     line-height: var(--line-height-s);
-    transition: 0.5s ease;
 }
 
 .main-btn:hover {
-    opacity: 0.5;
+    background: linear-gradient( 0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5) ), linear-gradient(180deg, var(--gradient-red) 0%, var(--gradient-pink) 100%);
 }
 
 #courses-section {
@@ -189,7 +188,7 @@ footer {
 }
 
 .footer-btn:hover {
-    opacity: 0.5;
+    background: linear-gradient( 0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5) ), linear-gradient(180deg, var(--gradient-blue) 0%, var(--gradient-pink) 100%);
 }
 
 @media screen and (min-width: 768px) {

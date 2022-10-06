@@ -221,9 +221,7 @@ footer {
         position: absolute;
         z-index: -1;
         top: 0;
-        right: -190px;
-        width: 640px;
-        height: 640px;
+        right: 0;
     }
 
     #courses-section {
@@ -277,10 +275,8 @@ footer {
         display: block;
         position: absolute;
         z-index: -1;
-        top: -150px;
-        right: -335px;
-        width: 991px;
-        height: 936px;
+        top: 0;
+        right: 0;
     }
 
     #courses-section {

@@ -209,6 +209,7 @@ footer {
         width: 457px;
         padding: 99px 40px 186px;
         margin-right: 100%;
+        -webkit-margin-end: 100%
     }
 
     .image-hero-mobile {
